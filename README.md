@@ -12,4 +12,6 @@ Human / AI / equality
 5     / 2  / 3  
 4     / 5  / 1  
 
-
+*******************
+An other match :  
+[match](https://github.com/AIDRI/markov_chain_for_rps/blob/master/Annotation%202020-06-10%20145412.png)
