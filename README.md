@@ -14,4 +14,5 @@ Human / AI / equality
 
 *******************
 An other match :  
+
 ![Annotation 2020-06-10 145412](https://user-images.githubusercontent.com/60047183/84270472-025fd600-ab2b-11ea-9bc9-b653bd491f74.png)
