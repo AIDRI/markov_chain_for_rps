@@ -6,7 +6,7 @@ It is a simple project with a Markov model, and a random number generator for th
 ********************
 I play 5 matchs with 10 rounds against the AI:  
 Human / AI / equality  
-4     / 6  / 0  
+6     / 4  / 0  
 3     / 5  / 2  
 2     / 3  / 5  
 5     / 2  / 3  
