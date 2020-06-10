@@ -1,2 +1,3 @@
 random
 numpy
+itertools
