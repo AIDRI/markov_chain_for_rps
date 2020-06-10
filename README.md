@@ -18,4 +18,4 @@ An other match :
 ![Annotation 2020-06-10 145412](https://user-images.githubusercontent.com/60047183/84270472-025fd600-ab2b-11ea-9bc9-b653bd491f74.png)
 
 *******************  
-WARNING: The model is not unbeatable. The 25 sleeves are useful because they allow the robot to "calibrate" itself. After about ten epochs, the bot becomes relatively interesting. (some modifications will come)
+WARNING: The model is not unbeatable. The 25 rounds are useful because they allow the robot to "calibrate" itself. After about ten epochs, the bot becomes relatively interesting. (some modifications will come)
