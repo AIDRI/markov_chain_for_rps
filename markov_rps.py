@@ -62,7 +62,7 @@ def predict_on_random():
     
 
 first = True #if it is the first move, we need to initialize markov and the random
-for i in range(10): #we play a game with X rounds : X = 10
+for i in range(25): #we play a game with X rounds : X = 10
 	inp = input("You mouv : ") # ask the mouv of the player : we are not predict with this input, just update the matrix of the markov protocol
 	if first==True:
 		random_predictor = predict_on_random() #define random
