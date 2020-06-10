@@ -2,6 +2,7 @@ from __future__ import division
 import random
 import itertools
 
+opposite = {'R': 'P', 'P': 'S', 'S': 'R'}
 
 class my_markov():
 
@@ -75,7 +76,7 @@ for i in range(10): #we play a game with X rounds : X = 10
 
 	if prev != '': #if it is not the first mouv, we are predict using markov an output
 		proc_markov.update_matrix(prev, inp)
-		output = proc_markov.predict(now) #we choose the mouv to do
+		output = opposite[proc_markov.predict(now)] #we choose the mouv to do
 
 	else:
 		output = predict_on_random() #if it is the first mouv, we predict on a random list of R (Rock), P (Paper), S (Scissors)
